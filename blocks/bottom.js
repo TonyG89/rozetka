@@ -18,7 +18,7 @@ export default function bottom() {
                     ${list}
                 </ul>
             </div>
-                <img class="img-block" src="../img/bottom-block.png" alt="bottom-block" />
+                <img class="img-block" src="./img/bottom-block.png" alt="bottom-block" />
         </div>
     `
     if (window.innerWidth>780) {
